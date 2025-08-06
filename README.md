@@ -1,7 +1,7 @@
 <!-- En-tête avec avatar -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/…?s=200" width="100" alt="avatar" />
-  <h1 align="center">Seyni Kane (nisto39)</h1>
+  <h1 align="center">(nisto39)</h1>
   <p align="center">Full-Stack Developer & Web3 Enthusiast • Passionné par l’IA et la blockchain</p>
 </p>
 
